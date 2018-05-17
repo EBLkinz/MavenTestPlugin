@@ -1,0 +1,3 @@
+name: MavenPluginTest
+main: io.github.eblkinz.MavenPluginTest
+version: 1.0
