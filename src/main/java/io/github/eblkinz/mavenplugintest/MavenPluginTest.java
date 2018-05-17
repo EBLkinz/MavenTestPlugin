@@ -7,12 +7,12 @@ public final class MavenPluginTest extends JavaPlugin
 	@Override
 	public void onEnable()
 	{
-		//TODO
+		getLogger().info("Enabled");
 	}
 	
 	@Override
 	public void onDisable()
 	{
-		//TODO
+		getLogger().info("Disabled");
 	}
 }
